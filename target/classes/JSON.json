@@ -1,0 +1,118 @@
+{
+"organization":[
+{
+	"name":"Сбербанк",
+	"address":{
+		 "streetAddress":"Chertanovskaya",
+		 "houseNumber":"18",
+		 "city":"Moscow",
+		 "country":"Russia",
+		 "postalCode":"123456"
+	},
+	"phoneNumber":"299-599",
+	"INN":"8988931945",
+	"OGRN":"44532v3452",
+	"foundationDate":"15/10/1991",
+	"securities":[
+		{
+			"name":"Акции компании",
+			"id":"4311",
+			"dateStart":"20/05/2017",
+			"dateFinish":"20/05/2019",
+			"currency":["RUB",
+						"USD"]
+			},
+		{
+			"name":"Вексель",
+			"id":"4001",
+			"dateStart":"01/01/2010",
+			"dateFinish":"31/12/2020",
+			"currency":["USD",
+						"EU",
+						"RUB"
+				]
+			},
+			{
+			"name":"Облигации",
+			"id":"111",
+			"dateStart":"20/05/2000",
+			"dateFinish":"20/05/2021",
+			"currency":["EU",
+						"USD"
+				]
+			}
+		]
+},
+{
+	"name":"Банк ВТБ",
+	"address":{
+		 "streetAddress":"Yugnaya",
+		 "houseNumber":"144",
+		 "city":"Moscow",
+		 "country":"Russia",
+		 "postalCode":"123233"
+	},
+	"phoneNumber":"200-5000",
+	"INN":"8985435666",
+	"OGRN":"4451211111",
+	"foundationDate":"15/10/2011",
+	"securities":[
+		{
+			"name":"Акции компании",
+			"id":"0066",
+			"dateStart":"20/05/2017",
+			"dateFinish":"20/05/2029",
+			"currency": ["EU",
+				         "USD"
+				]
+			},
+		{
+			"name":"ПАИ",
+			"id":"991-1",
+			"dateStart":"20/05/2017",
+			"dateFinish":"20/05/2019",
+			"currency":["RUB"]
+			}
+		]
+},
+	{
+	"name":"Газпром Банк",
+	"address":{
+		 "streetAddress":"Sevastopolskaya",
+		 "houseNumber":"10",
+		 "city":"Moscow",
+		 "country":"Russia",
+		 "postalCode":"535553"
+	},
+	"phoneNumber":"8-800-200-11-11",
+	"INN":"8985435666",
+	"OGRN":"4451211111",
+	"foundationDate":"15/10/1990",
+	"securities":[
+		{
+			"name":"Акции компании",
+			"id":"006-11",
+			"dateStart":"20/05/2017",
+			"dateFinish":"20/05/2019",
+			"currency":["EU",
+						"RUB"
+				]
+			},
+		{
+			"name":"ПАИ",
+			"id":"066-15",
+			"dateStart":"20/05/2017",
+			"dateFinish":"20/05/2019",
+			"currency":["USD"]
+			},
+			{
+			"name":"Ценные бумаги",
+			"id":"066-120",
+			"dateStart":"20/05/2017",
+			"dateFinish":"20/05/2019",
+			"currency":["RUB"]
+			}
+		]
+}
+]
+}
